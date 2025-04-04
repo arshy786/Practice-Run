@@ -1,0 +1,15 @@
+Instructions to Access and Edit My E-Commerce Secured Website Project:
+
+Accessing the Database:
+
+Visit the following URL: mysql.prositehosting.co.uk
+When prompted, select Server Number 37 to access the correct server for the project.
+Accessing the Website:
+
+To view or interact with the website, open any browser and use the following link:
+https://sencldigitech.co.uk/aaslam/CMP214/homepage.php
+Logging In as Admin:
+
+Username: admin
+Password: admin
+Use these credentials to log in as the admin user and gain access to the admin panel of the website.
